@@ -1,0 +1,14 @@
+{
+    "1395789569": {
+        "language": "eng",
+        "invitation_recieved": false,
+        "access": true,
+        "email": "t.zaykova@maxprofit.c"
+    },
+    "5796405049": {
+        "language": "rus",
+        "invitation_recieved": true,
+        "access": true,
+        "email": "t.zaykova@maxprofit.cc"
+    }
+}

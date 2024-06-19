@@ -1,0 +1,33 @@
+{
+    "rus": {
+        "enter_email": "Введите свой адрес электронной почты:",
+        "wrong_email": "❌ Вашего адреса электронный почты нет в базе. Попробуйте еще раз:",
+        "get_access": "✅ Доступ выдан!",
+        "already_registered": "\uD83E\uDD28 Вы уже проходили регистрацию.",
+        "subscription_expired": "\uD83D\uDE14 Срок Вашей подписки истек.",
+        "this_is_admin_email": "\uD83E\uDD28 Эта электронная почта админов. Попробуйте еще раз:",
+        "email_already_registered": "\uD83E\uDD28 Эта электронная почта уже зарегистрирована. Попробуйте еще раз:",
+        "invitation_already_recieved": "\uD83D\uDE09 Вы уже получали приглашение в канал.",
+        "invitation_link_recieved": "\uD83D\uDD17 Ваша пригласительная ссылка:",
+        "invite_link_btn": "📎 Получить приглашение в канал",
+        "subscription_status_btn": "📊 Статус подписки",
+        "subscription_repay_btn": "💰 Продлить подписку",
+        "change_language_btn": "\uD83D\uDD04 Сменить язык"
+
+    },
+    "eng": {
+        "enter_email": "Enter your email address:",
+        "wrong_email": "❌ Your email address is not in our database. Please try again:",
+        "get_access": "✅ Access!",
+        "already_registered": "\uD83E\uDD28 You have already registered.",
+        "subscription_expired": "\uD83D\uDE14 Your subscription has expired.",
+        "this_is_admin_email": "\uD83E\uDD28 This is the admin's email address. Please try again:",
+        "email_already_registered": "\uD83E\uDD28 This email address is already registered. Please try again:",
+        "invitation_already_recieved": "\uD83D\uDE09 You have already received an invitation to the channel.",
+        "invitation_link_recieved": "\uD83D\uDD17 Your invitation link:",
+        "invite_link_btn": "📎 Get invite to channel",
+        "subscription_status_btn": "📊 Subscription status",
+        "subscription_repay_btn": "💰 Renew subscription",
+        "change_language_btn": "\uD83D\uDD04 Change language"
+    }
+}
